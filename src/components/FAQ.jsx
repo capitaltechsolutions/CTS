@@ -11,7 +11,7 @@ export default function FAQ() {
     },
     {
       pregunta: "¿Cuánto cuesta una página web?",
-      respuesta: "Los precios varían según tus necesidades. Desde páginas básicas de $300 hasta tiendas online completas desde $800. Ofrecemos planes de pago flexibles y cotizaciones personalizadas sin compromiso."
+      respuesta: "Los precios varían según tus necesidades. Ofrecemos planes de pago flexibles y cotizaciones personalizadas sin compromiso."
     },
     {
       pregunta: "¿Necesito conocimientos técnicos?",
