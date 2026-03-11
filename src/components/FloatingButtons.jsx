@@ -6,7 +6,7 @@ export default function FloatingButtons() {
   }
 
   const handleMessenger = () => {
-    window.open('https://m.me/Capital_Tech_Solutions', '_blank')
+    window.open('https://m.me/61588458815008', '_blank')
   }
 
   const handleEmail = () => {
