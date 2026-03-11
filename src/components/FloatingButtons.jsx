@@ -10,7 +10,7 @@ export default function FloatingButtons() {
   }
 
   const handleEmail = () => {
-    window.location.href = 'mailto:contacto@tusitio.com'
+    window.location.href = 'mailto:capitaltechsolutions4@gmail.com'
   }
 
   return (
